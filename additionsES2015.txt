@@ -1,0 +1,30 @@
+/*
+
+let, const
+template strings
+arrow functions
+default parameters
+rest and spread operators
+for...of loops
+object shorthand notation
+computed property names
+
+object destructuring
+array destructuring
+class keyword
+super and extends keywords
+Maps / Sets
+Promises
+Generators
+Object, Number, Array methods
+const
+Gotcha with const
+const numbers = [1,2,3,4];
+
+numbers.push(10); // 5
+
+numbers; // [1,2,3,4,5]
+
+numbers = "no!"; // TypeError
+ 
+*/
